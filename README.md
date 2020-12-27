@@ -18,7 +18,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/YassBot21/YassBot01
 ```
 
 ## Install the dependencies:
@@ -55,6 +55,6 @@ you've just cloned!!
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 
 ## Group
-* [`WhatsApp`](https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v)
+* [`WhatsApp`](https://chat.whatsapp.com/LyPTh9hAB2N7WsqUgKVDqQ)
 ### Donate
 * [`Saweria`](https://saweria.co/donate/mhankbarbar)
